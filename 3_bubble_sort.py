@@ -7,4 +7,6 @@ for i in range(len(L)):
         if L[j] > L[j+1]:
             L[j], L[j+1] = L[j+1], L[j]
 
+    print(L)
+
 print(L)

@@ -10,5 +10,7 @@ for i in range(len(L)):
 
     L[min_id], L[i] = L[i], L[min_id]
 
+    print(L)
 
+print()
 print(L)

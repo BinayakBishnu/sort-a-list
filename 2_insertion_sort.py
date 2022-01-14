@@ -13,4 +13,6 @@ for i in range(1, len(L)):
 
     L[j+1] = min_
 
+    print(L)
+
 print(L)
